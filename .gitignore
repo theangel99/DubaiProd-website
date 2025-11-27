@@ -1,0 +1,55 @@
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.production
+.env.development
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Build outputs (if you add build tools later)
+dist/
+build/
+out/
+
+# Dependencies (if you add npm later)
+node_modules/
+package-lock.json
+yarn.lock
+
+# System files
+*.pid
+*.seed
+*.pid.lock
+
+# Optional: Exclude test/dev files
+test-*.html
